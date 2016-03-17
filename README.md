@@ -1,6 +1,6 @@
 # csgodouble-script-bot-0.13
 CSGODOUBLE SCRIPT. ver 0.13. 16.03.16 Bot script roulette.
-Скрипт бота для игры в рулетку на http://www.csgodouble.com/.
+Скрипт бота для игры в рулетку на http://www.csgodouble.com/
 
 Как работает скрипт:
 1. Вы задаете в скрипте начальную ставку, опция (start_bet).
