@@ -12,7 +12,7 @@
 4.3. ("green_waiting") - Ожидание на зеленое. Это самая прибыльная тактика. Рекомендуется использовать эту тактику только если вы уверены, что банкрол вам позволяет ждать 50 или больше ходов. Среднее число ходов между зеленым примерно 25-30. Но если же вам повезет и зеленый цвет будет выпадать часто, можно неплохо заработать. Эта тактика сводит все ваши расходы на минимум, первые 14 ходов будет идти первоначальная ставка, остальные будут увеличиваться пропорционально затраченным очкам.
 5. Не забывайте указывать ковычки, когда меняете цвет или алгоритм. прим. config.algorithm = "green_waiting"; или config.color_tactic = "random"; 
 
-**КАЖДУЮ ПОБЕДУ ОТПРАВЛЯЕТСЯ 15% ОТ ВЫИГРЫША АВТОРУ СКРИПТА. ВЫ ИСПОЛЬЗУЕТЕ СКРИПТ НА СВОЙ СТРАХ И РИСК, СКРИПТ НЕ ГАРАНТИРУЕТ 100% ПОБЕДЫ, ВСЕ ЗАВИСИТ ТОЛЬКО ОТ ВАШИХ РЕШЕНИЙ. ИСПОЛЬЗУЯ СКРИПТ ВЫ СОГЛАШАЕТЕСЬ С ЛИЦЕНЗИЕЙ АВТОРА И НЕ ИМЕЕТЕ НИКАКИХ ПРЕТЕНЗИЙ К НЕМУ.**
+**КАЖДУЮ ПОБЕДУ ОТПРАВЛЯЕТСЯ 10% ОТ ВЫИГРЫША АВТОРУ СКРИПТА. ВЫ ИСПОЛЬЗУЕТЕ СКРИПТ НА СВОЙ СТРАХ И РИСК, СКРИПТ НЕ ГАРАНТИРУЕТ 100% ПОБЕДЫ, ВСЕ ЗАВИСИТ ТОЛЬКО ОТ ВАШИХ РЕШЕНИЙ. ИСПОЛЬЗУЯ СКРИПТ ВЫ СОГЛАШАЕТЕСЬ С ЛИЦЕНЗИЕЙ АВТОРА И НЕ ИМЕЕТЕ НИКАКИХ ПРЕТЕНЗИЙ К НЕМУ.**
 
 > Как использовать:
 
@@ -37,7 +37,7 @@ ENGLISH (GOOGLE TRANSLATE):
 4.3. ( "Green_waiting") - Waiting on the green. This is the most profitable strategy. It is recommended to use this tactic only if you are sure that bankroll allows you to wait for 50 or more strokes. The average number of strokes between the green of about 25-30. But if you are lucky and green will fall frequently, you can earn good money. This tactic brings all your expenses for at least the first 14 moves will keep the original bet, and the rest will be increased in proportion to the expended points.
 5. Do not forget to mention quotes when changing the color or the algorithm. approx. config.algorithm = "green_waiting"; or config.color_tactic = "random";
 
-**EVERY VICTORY GOES TO WIN 15% of the script author. YOUR USE OF THE SCRIPT IS AT YOUR SOLE RISK, the script does not guarantee 100% winning, it all depends on your decisions. Using scripts YOU AGREE TO THE TERMS OF THE AUTHOR AND DO NOT HAVE ANY CLAIM TO IT.**
+**EVERY VICTORY GOES TO WIN 10% of the script author. YOUR USE OF THE SCRIPT IS AT YOUR SOLE RISK, the script does not guarantee 100% winning, it all depends on your decisions. Using scripts YOU AGREE TO THE TERMS OF THE AUTHOR AND DO NOT HAVE ANY CLAIM TO IT.**
 
 > How to use:
 
