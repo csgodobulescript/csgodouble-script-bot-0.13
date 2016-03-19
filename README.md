@@ -1,4 +1,5 @@
 # CSGODOUBLE SCRIPT BOT. ver 0.13. 16.03.16 
+Update 0.14b [19.03.16]
 Скрипт бота для игры в рулетку на http://www.csgodouble.com/
 
 >Как работает скрипт:
@@ -22,6 +23,8 @@
 2. Google Chrome
 Откройте рулетку и нажмите Control + Shift + J, скопируйте в консоль скрипт и нажмите Enter. Готово.
 В других браузерах не тестировалось.
+
+Cкрипт необходимо запускать, когда идет таймер. Если интерфейс не запустился, обновите страницу и запустите скрипт по новой на следующей ставке. 
 
 По всем вопросам и ошибкам скрипта обращаться на почту: lain@pismorf.com
 
@@ -47,5 +50,7 @@ Now open the tape and press F12, then copy the script to the console and press E
 2. Google Chrome
 Open the tape and press Control + Shift + J, copy the script in console and press Enter. Done.
 Other browsers are not tested.
+
+The script must be run when there is a timer. If the interface does not start, refresh the page and start a new script for the next bet. 
 
 For any questions and handle script errors on mail: lain@pismorf.com
