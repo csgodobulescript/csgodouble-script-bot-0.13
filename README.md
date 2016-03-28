@@ -1,4 +1,4 @@
-# CSGODOUBLE SCRIPT BOT. Update 0.14b [19.03.16]
+# CSGODOUBLE SCRIPT BOT. Update 0.15 [28.03.16]
 Скрипт бота для игры в рулетку на http://www.csgodouble.com/
 
 ![logo](https://pp.vk.me/c630426/v630426086/1a991/04vSXRBabWE.jpg "interface img")
